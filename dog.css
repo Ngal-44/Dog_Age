@@ -1,0 +1,46 @@
+html {
+    scroll-behavior: smooth;
+}
+
+*{
+    background-color: #FF71CD;
+}
+
+
+.hero{
+    margin-top: -110px;
+}
+#result {
+    color: #ffdf5d; /* Soft yellow color */
+    font-size: 1.5rem; /* Larger font size */
+    font-weight: bold; /* Bold text */
+    margin-top: 20px; /* Space above the result */
+    padding: 10px; /* Padding around the text */
+    background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent white background */
+    border-radius: 10px; /* Rounded corners */
+    border: 2px solid #fff; /* White border */
+    width: fit-content; /* Width fits the content */
+    margin: 20px auto 0; /* Center the result text */
+}
+.title{
+    font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal
+  
+ 
+  
+}
+.inc{
+    background-color: #FF71CD; ;
+}
+.parag{
+    font-family: "Cabin", sans-serif;
+    color: #FFF0F5;
+    font-style: normal;
+    font-weight: 200;
+}
+.age{
+    font-family: "Cabin", sans-serif;
+    color: #FFF0F5;
+
+}
